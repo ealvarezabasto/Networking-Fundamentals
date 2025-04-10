@@ -27,6 +27,7 @@
 * Contains the MAC Tables that lists MAC Address and respective Port. Can have multiple MAC addresses for one Port. (e.g., MAC Address XX.XX.XX is associated with Port 1)
 
   <img width="422" alt="image" src="https://github.com/user-attachments/assets/25a19a68-bdae-4423-9a01-1d70f3b923f2" />
+
   ***screenshot from Introduction to Computer Networking Udemy Video***
 
 ### Types of Traffic in an Ethernet Network
